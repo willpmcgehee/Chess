@@ -1,0 +1,1 @@
+This is a software representation of a chess game. Each component of the game is modeled by a class. Components are initialised and moves submitted in the ChessMain.cpp class. 
